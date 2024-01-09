@@ -15,7 +15,7 @@ class Rectangle
         }
 
     public:
-        void set_dimensions(double l, double w = 5)
+        void set_dimensions(double l, double w = 5) // 5 is a default parameter value
         {
             length = l;
             width = w; 
