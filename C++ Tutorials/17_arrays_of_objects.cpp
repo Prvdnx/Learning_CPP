@@ -44,7 +44,7 @@ int main()
 
     // Square squares[3] = {2, 4, 8};  // using the 3rd constructor
     
-    Square squares[3] = {2, Square(5, "red")};  // using all 3 constructors (2nd, 3rd, 1st respectively)
+    Square squares[3] = {2, Square(5, "red")};  // using all 3 constructors (3rd, 2nd, 1st respectively)
 
     for (int i = 0; i < 3; i++)
         squares[i].print();
