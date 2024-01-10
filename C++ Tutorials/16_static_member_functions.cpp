@@ -1,7 +1,7 @@
 
 #include <iostream>
 
-using namespace std;
+using namespace std;        
 
 class Square
 {
@@ -20,3 +20,8 @@ class Square
             return (side_length * side_length);
         }
 };
+
+int main()
+{
+    Square square1(5);
+}
