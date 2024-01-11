@@ -19,7 +19,7 @@
 
 
 
-//\\//\\ CUSTOM FUNCTION ===================================
+//\\//\\ CUSTOM FUNCTIONS ===================================
 
 double power(double base, int exponent)
 {
