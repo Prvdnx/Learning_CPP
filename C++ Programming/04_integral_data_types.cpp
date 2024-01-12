@@ -25,11 +25,11 @@
 
 
 
-//\\//\\ INT DATA TYPES ====================================
+//\\//\\ CHAR DATA TYPES ====================================
 
 int main()
 {
-    char x = 65;
+    char x = 65; // a char is 8 bits, the smallest of them all
     //unsigned char c = 129;
 
     std::cout << x << std::endl;
@@ -37,5 +37,3 @@ int main()
 
     return (0);
 }
-
-
