@@ -34,7 +34,7 @@ int main()
     std::cout << y << "\t" << z << std::endl;
     y = 10;
     (z = y) = 100;
-    std::cout << y << "\t" << z << std::endl;  
+    std::cout << y << "\t" << z << std::endl;
 
     return (0);
 }
