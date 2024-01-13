@@ -8,7 +8,6 @@ int main()
     std::cout << greeting.size() << std::endl;
     std::cout << greeting << std::endl;
 
-    //\\//\\ MODIFIER METHODS =========================
     greeting += " there";
     // greeting.append(" there!"); // works the same as the "+="
     std::cout << greeting << std::endl;
