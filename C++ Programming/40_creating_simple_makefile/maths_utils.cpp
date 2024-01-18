@@ -16,6 +16,7 @@ double area(Rectangle rectangle)
     return (rectangle.length * rectangle.width);
 }
 
+//--------------------------------------------------------------------------------
 
 double power(double base, int pow) // double power(double base, int pow = 2) with this, the function below becomes unnecessary
 {
