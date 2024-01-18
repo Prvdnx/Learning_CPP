@@ -20,10 +20,10 @@
 //     return (0);
 // }
 
-
 //=========================================================================================================//
-void do_something(int data) // "int data" has to be changed to "const int data" for print_array call to this
-{                           // function to be successful
+
+void do_something(int data) // "int data" has to be changed to "const int data" for the print_array call to the
+{                           // do_something function to be successful
 
 }
 
