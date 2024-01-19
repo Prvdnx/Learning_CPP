@@ -1,6 +1,5 @@
 #include <iostream>
-#include <iostream>
-#include <vector>
+#include <string>
 
 class User
 {
@@ -22,7 +21,6 @@ class User
 
         void    set_status(std::string status)  // THIS IS A SETTER
         {
-            // this->status = status;
             if(status == "Gold" || status == "Silver" || status == "Bronze")
             {
                 this->status = status;
