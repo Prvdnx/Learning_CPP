@@ -1,5 +1,5 @@
-#ifndef TEACHER_H
-# define TEACHER_H
+#ifndef STUDENT_H
+# define STUDENT_H
 
 #include <iostream>
 #include <string>
